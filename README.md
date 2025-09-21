@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jean Carlos Andrade</h1>
-<h3 align="center">A passionate QA Tester from Argentina</h3>
+<h3 align="center">A passionate QA Tester from Brasil</h3>
 
 - 🔭 I’m currently working on **Freelance**
 
